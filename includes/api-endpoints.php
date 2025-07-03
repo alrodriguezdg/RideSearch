@@ -1,8 +1,8 @@
 <?php
 class RideCR_API_Endpoints {
     private $credentials = [
-        'email' => 'smarteamcr@ridecr.com',
-        'password' => 'T&O@WO=TAzAth7ne$p=ZUJacReThe='
+        'email' => '-',
+        'password' => '-'
     ];
     
     public function __construct() {
